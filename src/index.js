@@ -5,6 +5,8 @@ function info() {
   return m;
 }
 
+console.log('Загрузка скрипта');
+
 export default {
   info
 };
